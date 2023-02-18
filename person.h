@@ -18,7 +18,7 @@ public:
 private:
 	std::string name_;
 	int age_;
-    std::string passport_;
+    	std::string passport_;
 };
 
 #endif // PERSON_H
