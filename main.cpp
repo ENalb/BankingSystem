@@ -11,9 +11,9 @@ int main()
 	t.testGetAge();
 	t.testGetPassport();
 	t.testGet_id();
-    t.testSet_id();
-    t.testGet_person();
-    t.testSet_person();
+    	t.testSet_id();
+    	t.testGet_person();
+    	t.testSet_person();
 	t.testDeposit();
 	t.testWithdrow();
 	t.testAddAccount();
