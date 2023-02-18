@@ -12,9 +12,9 @@ public:
 	void testGetAge();
 	void testGetPassport();
 	void testGet_id();
-    void testSet_id();
-    void testGet_person();
-    void testSet_person();
+    	void testSet_id();
+    	void testGet_person();
+    	void testSet_person();
 	void testDeposit();
 	void testWithdrow();
 	void testAddAccount();
