@@ -10,9 +10,9 @@ public:
 	Person() = default;
 	std::string get_name() const;
 	void set_name(const std::string&);
-    int get_age() const;
-    void set_age(int);
-    std::string get_passport() const;
+    	int get_age() const;
+    	void set_age(int);
+    	std::string get_passport() const;
 	void set_passport(const std::string&);
 
 private:
