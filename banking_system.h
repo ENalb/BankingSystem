@@ -9,7 +9,7 @@ public:
     BankingSystem(const std::string&);
     void add_account(const Account&);
     std::string get_name() const;
-	void set_name(const std::string&);
+    void set_name(const std::string&);
     int getSize() const;
 
 private:
